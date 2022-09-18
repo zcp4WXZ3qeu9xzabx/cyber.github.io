@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Sateg</title>
-	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorised | Sateg</title>
+	<atom:link href="http://localhost/category/uncategorised/feed/" rel="self" type="application/rss+xml" />
 	<link>http://zcp4wxz3qeu9xzabx.github.io/</link>
 	<description>sateg</description>
 	<lastBuildDate>Sun, 18 Sep 2022 08:55:23 +0000</lastBuildDate>
